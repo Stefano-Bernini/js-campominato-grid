@@ -11,3 +11,14 @@ PROBLEMA: L'utente clicca su un bottone che genererà una griglia di gioco quadr
 8 - Al click la casella si colora di azzurro;
 9 - Al click della casella mostro in console il numero della casella cliccata;
 
+
+
+
+BONUS: Aggiungere una select accanto al bottone di generazione, che fornisca una scelta tra tre diversi livelli di difficoltà:
+- difficoltà 1 ⇒ 100 caselle, con un numero compreso tra 1 e 100, divise in 10 caselle per 10 righe;
+- difficoltà 2 ⇒ 81 caselle, con un numero compreso tra 1 e 81, divise in 9 caselle per 9 righe;
+- difficoltà 3 ⇒ 49 caselle, con un numero compreso tra 1 e 49, divise in 7 caselle per 7 righe;
+
+1 - Aggiungere la seclect al DOM;
+2 - Al click del pulsante, recuperare il valore se3lezionato dalla select;
+3 - Generare la griglia in base al valore della select selezionato;
